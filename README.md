@@ -1,4 +1,4 @@
-# 01---HTML---TUGAS-3-HTML
+# 01-HTML-TUGAS-3-HTML
 Tugas 3 HTML Niomic
 <hr>
 Tuliskan Code HTML dengan ketentuan sebagai berikut : <br><br>
